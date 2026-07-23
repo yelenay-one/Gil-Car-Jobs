@@ -1,2 +1,0 @@
-[2016.07.18_10.44.47]	Error in GetIncidentItmesCRM: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'SystemUser' entity doesn't contain attribute with Name = 'new_s_card_code'. (Fault Detail is equal to Microsoft.Xrm.Sdk.OrganizationServiceFault).
-[2016.07.18_10.45.22]	Error in GetIncidentItmesCRM: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'SystemUser' entity doesn't contain attribute with Name = 'new_s_card_code'. (Fault Detail is equal to Microsoft.Xrm.Sdk.OrganizationServiceFault).

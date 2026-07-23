@@ -1,5 +1,0 @@
-[2022.03.17_13.35.53]	Input string was not in a correct format.
-   at IntoIT.GilCar.Interfaces.ProductsToCRM.BL..ctor() in C:\IntoIt\ProductsToCRM\BL.cs:line 43
-   at IntoIT.GilCar.Interfaces.ProductsToCRM.Program.Main(String[] args) in C:\IntoIt\ProductsToCRM\Program.cs:line 16
-[2022.03.17_13.35.53]	ProductsToCRM Start: 17/03/2022 13:35:47
-[2022.03.17_13.35.53]	ProductsToCRM End: 17/03/2022 13:35:53

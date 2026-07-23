@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+packages/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+*.nupkg
+
+# Misc
+*.log
+.env
+*.zip
+
+שמרי וסגרי.
