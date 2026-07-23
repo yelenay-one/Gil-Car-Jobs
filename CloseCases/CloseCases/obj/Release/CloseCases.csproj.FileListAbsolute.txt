@@ -1,7 +1,0 @@
-D:\Crm.Interfaces\CloseCases\CloseCases\bin\Release\CloseCases.exe.config
-D:\Crm.Interfaces\CloseCases\CloseCases\bin\Release\CloseCases.exe
-D:\Crm.Interfaces\CloseCases\CloseCases\bin\Release\CloseCases.pdb
-D:\Crm.Interfaces\CloseCases\CloseCases\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
-D:\Crm.Interfaces\CloseCases\CloseCases\bin\Release\Microsoft.Xrm.Sdk.dll
-D:\Crm.Interfaces\CloseCases\CloseCases\obj\Release\CloseCases.exe
-D:\Crm.Interfaces\CloseCases\CloseCases\obj\Release\CloseCases.pdb
