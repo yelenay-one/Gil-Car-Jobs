@@ -1,0 +1,26 @@
+[2025.03.05_12.30.21]	Error in FillIncidentItemObject: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Microsoft.Xrm.Sdk.DataCollection`2.get_Item(TKey key)
+   at Microsoft.Xrm.Sdk.Entity.get_Item(String attributeName)
+   at IntoIT.GilCar.IncidentItemsToSAP.BL.FillIncidentItemObject(Entity incidentItem) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 408
+[2025.03.05_12.30.23]	IncidentItemsToSAP Error: Object reference not set to an instance of an object.    at IntoIT.GilCar.IncidentItemsToSAP.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 65
+[2025.03.05_12.30.23]	Main collection: 5000
+[2025.03.05_12.30.23]	Exported: 0
+[2025.03.05_12.30.53]	Object reference not set to an instance of an object.
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.Create(Entity entity)
+   at IntoIT.GilCar.IncidentItemsToSAP.BL.CreateNewInterfaceLog(DateTime start, String name, Int32 new_i_interface_total_lines, Int32 new_i_success_total_lines, Int32 new_i_error_total_lines) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 166
+   at IntoIT.GilCar.IncidentItemsToSAP.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 152
+   at IntoIT.GilCar.IncidentItemsToSAP.Program.Main(String[] args) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\Program.cs:line 14
+[2025.03.05_12.30.53]	IncidentItemsToSAP Start: 05/03/2025 12:28:24
+[2025.03.05_12.30.53]	IncidentItemsToSAP End: 05/03/2025 12:30:53
+[2025.03.05_12.32.15]	Error in FillIncidentItemObject: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Microsoft.Xrm.Sdk.DataCollection`2.get_Item(TKey key)
+   at Microsoft.Xrm.Sdk.Entity.get_Item(String attributeName)
+   at IntoIT.GilCar.IncidentItemsToSAP.BL.FillIncidentItemObject(Entity incidentItem) in C:\IntoIt\Jobs\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 408
+[2025.03.05_16.03.31]	Main collection: 2
+[2025.03.05_16.03.31]	Exported: 2
+[2025.03.05_16.03.37]	IncidentItemsToSAP Start: 05/03/2025 16:02:09
+[2025.03.05_16.03.37]	IncidentItemsToSAP End: 05/03/2025 16:03:37
+[2025.03.05_16.51.33]	Main collection: 0
+[2025.03.05_16.51.33]	Exported: 0

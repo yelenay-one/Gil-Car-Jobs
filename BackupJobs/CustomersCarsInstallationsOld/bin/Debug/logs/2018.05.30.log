@@ -1,0 +1,51 @@
+[2018.05.30_09.44.49]	first run total cars from DB: 0
+[2018.05.30_09.44.49]	first run total cars to CRM : 0
+[2018.05.30_09.44.49]	first run total Installations from DB : 0
+[2018.05.30_09.44.49]	first run total Installations to CRM : 0
+[2018.05.30_09.44.55]	Error in CreateCar. Could not find reference to importer name,10000,in car,2284939,ID,647573
+[2018.05.30_09.44.55]	Error in CreateCar. Could not find reference to importer name,19010,in car,9768279,ID,649585
+[2018.05.30_09.44.56]	Error in CreateCar. Could not find reference to importer name,19010,in car,9715461,ID,649590
+[2018.05.30_09.44.56]	Error in CreateCar. Could not find reference to importer name,19010,in car,3010273,ID,628740
+[2018.05.30_09.44.57]	Error in CreateCar. Could not find reference to importer name,12112,in car,3898134,ID,710246
+[2018.05.30_09.44.57]	Error in CreateCar. Could not find reference to importer name,19010,in car,4671055,ID,720272
+[2018.05.30_09.44.58]	Error in CreateCar. Could not find reference to importer name,19010,in car,4671055,ID,718430
+[2018.05.30_09.44.58]	Second run total cars from DB: 7
+[2018.05.30_09.44.58]	Second run total cars to CRM : 0
+[2018.05.30_09.44.58]	Second run total Installations from DB : 0
+[2018.05.30_09.44.58]	Second run total Installations to CRM : 0
+[2018.05.30_09.45.46]	first run total cars from DB: 0
+[2018.05.30_09.45.46]	first run total cars to CRM : 0
+[2018.05.30_09.45.46]	first run total Installations from DB : 0
+[2018.05.30_09.45.46]	first run total Installations to CRM : 0
+[2018.05.30_09.45.50]	Error in CreateCar. Could not find reference to importer name,10000,in car,2284939,ID,647573
+[2018.05.30_09.45.51]	Error in CreateCar. Could not find reference to importer name,19010,in car,9768279,ID,649585
+[2018.05.30_09.45.51]	Error in CreateCar. Could not find reference to importer name,19010,in car,9715461,ID,649590
+[2018.05.30_09.45.52]	Error in CreateCar. Could not find reference to importer name,19010,in car,3010273,ID,628740
+[2018.05.30_09.45.52]	Error in CreateCar. Could not find reference to importer name,12112,in car,3898134,ID,710246
+[2018.05.30_09.45.53]	Error in CreateCar. Could not find reference to importer name,19010,in car,4671055,ID,720272
+[2018.05.30_09.45.54]	Error in CreateCar. Could not find reference to importer name,19010,in car,4671055,ID,718430
+[2018.05.30_09.45.54]	Second run total cars from DB: 7
+[2018.05.30_09.45.54]	Second run total cars to CRM : 0
+[2018.05.30_09.45.54]	Second run total Installations from DB : 0
+[2018.05.30_09.45.54]	Second run total Installations to CRM : 0
+[2018.05.30_09.50.24]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,150590 
+[2018.05.30_09.50.42]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,144484 
+[2018.05.30_09.51.04]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,155484 
+[2018.05.30_09.52.15]	Error in CreateInstallation. Could not find reference to child product,52437,with parent,NWG-XV,ID,170161 
+[2018.05.30_09.52.24]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,163760 
+[2018.05.30_09.52.56]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,176824 
+[2018.05.30_09.52.57]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,176872 
+[2018.05.30_09.52.58]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,195877 
+[2018.05.30_09.53.07]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,179414 
+[2018.05.30_09.53.08]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,182970 
+[2018.05.30_09.53.09]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,182991 
+[2018.05.30_09.53.09]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,184883 
+[2018.05.30_09.53.21]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,193987 
+[2018.05.30_09.54.01]	Error:Can't create installation.Car with LicenseNum,4671055,was not found in CRM.ID,297832.
+[2018.05.30_09.54.01]	Error:Can't create installation.Car with LicenseNum,4671055,was not found in CRM.ID,304987.
+[2018.05.30_09.54.39]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0041,ID,193150 
+[2018.05.30_09.55.23]	Third run total Installations from DB : 627
+[2018.05.30_09.55.23]	Third run total Installations to CRM : 611
+[2018.05.30_09.55.23]	CustomersCarsInstallations send mail test 5 : 30/05/2018 09:55:23
+[2018.05.30_09.55.23]	CustomersCarsInstallations send mail test 6 : 30/05/2018 09:55:23
+[2018.05.30_09.55.23]	CustomersCarsInstallations send mail test 7 : 30/05/2018 09:55:23

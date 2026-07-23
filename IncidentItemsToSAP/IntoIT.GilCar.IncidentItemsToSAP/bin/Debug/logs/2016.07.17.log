@@ -1,0 +1,1 @@
+[2016.07.17_12.01.43]	Error in GetIncidentItmesCRM: System.ServiceModel.FaultException`1[Microsoft.Xrm.Sdk.OrganizationServiceFault]: 'new_incident_items' entity doesn't contain attribute with Name = 'new_s_customer_order_number'. (Fault Detail is equal to Microsoft.Xrm.Sdk.OrganizationServiceFault).

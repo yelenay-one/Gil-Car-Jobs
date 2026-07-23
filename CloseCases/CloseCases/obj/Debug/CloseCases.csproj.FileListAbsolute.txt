@@ -1,0 +1,114 @@
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.exe.config
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.exe
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.pdb
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.exe
+D:\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.pdb
+D:\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.csprojAssemblyReference.cache
+D:\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CoreCompileInputs.cache
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CopyComplete
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.exe.config
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.exe
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\obj\Debug\CloseCases.pdb
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.exe
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\CloseCases.pdb
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Newtonsoft.Json.dll
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\CloseCases.exe.config
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\CloseCases.exe
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\CloseCases.pdb
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Newtonsoft.Json.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Buffers.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Memory.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Numerics.Vectors.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Text.Encodings.Web.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Text.Json.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.ValueTuple.dll
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\Newtonsoft.Json.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Buffers.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Memory.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Numerics.Vectors.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Text.Encodings.Web.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Text.Json.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IntoIt\CloseCases\CloseCases\bin\Debug\System.ValueTuple.xml
+C:\IntoIt\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CoreCompileInputs.cache
+C:\IntoIt\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CopyComplete
+C:\IntoIt\CloseCases\CloseCases\obj\Debug\CloseCases.exe
+C:\IntoIt\CloseCases\CloseCases\obj\Debug\CloseCases.pdb
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\CloseCases.exe.config
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\CloseCases.exe
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\CloseCases.pdb
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Newtonsoft.Json.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Buffers.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Memory.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Numerics.Vectors.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Text.Encodings.Web.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Text.Json.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.ValueTuple.dll
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\Newtonsoft.Json.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Buffers.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Memory.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Numerics.Vectors.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Text.Encodings.Web.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Text.Json.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\bin\Debug\System.ValueTuple.xml
+C:\IntoIt\Jobs\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CoreCompileInputs.cache
+C:\IntoIt\Jobs\CloseCases\CloseCases\obj\Debug\CloseCases.csproj.CopyComplete
+C:\IntoIt\Jobs\CloseCases\CloseCases\obj\Debug\CloseCases.exe
+C:\IntoIt\Jobs\CloseCases\CloseCases\obj\Debug\CloseCases.pdb

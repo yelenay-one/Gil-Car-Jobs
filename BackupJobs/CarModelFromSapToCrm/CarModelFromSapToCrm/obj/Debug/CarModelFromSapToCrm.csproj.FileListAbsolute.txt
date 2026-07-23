@@ -1,0 +1,24 @@
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.exe.config
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.exe.manifest
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.application
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.exe
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.pdb
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.exe.manifest
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.application
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.exe
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.pdb
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.csprojAssemblyReference.cache
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.csproj.CoreCompileInputs.cache
+D:\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.csproj.CopyComplete
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\bin\Debug\CarModelFromSapToCrm.exe.config
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.exe
+D:\Yelena\Yelena PC\Projects\Gil-Car-CRM-New\Crm.Interfaces\CarModelFromSapToCrm\CarModelFromSapToCrm\obj\Debug\CarModelFromSapToCrm.pdb

@@ -1,0 +1,151 @@
+[2017.07.24_11.19.53]	first run total cars from DB: 0
+[2017.07.24_11.19.53]	first run total cars to CRM : 0
+[2017.07.24_11.19.53]	first run total Installations from DB : 0
+[2017.07.24_11.19.53]	first run total Installations to CRM : 0
+[2017.07.24_11.20.02]	Error in CreateCar. Could not find reference to car model,,in car,6759632,ID,596993
+[2017.07.24_11.20.03]	Error in CreateCar. Could not find reference to car model,,in car,6759732,ID,596994
+[2017.07.24_11.20.03]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,JTJBAMCA402027687,ID,597090
+[2017.07.24_11.20.04]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,JTHBS1BL30A002284,ID,597093
+[2017.07.24_11.20.05]	Error in CreateCar. Could not find reference to importer name,11082,in car,10672101,ID,597211
+[2017.07.24_11.20.06]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,SB1ZS3JE20E341095,ID,597222
+[2017.07.24_11.20.07]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338301,ID,597578
+[2017.07.24_11.20.08]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338501,ID,597579
+[2017.07.24_11.20.09]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338401,ID,597580
+[2017.07.24_11.20.09]	Second run total cars from DB: 9
+[2017.07.24_11.20.09]	Second run total cars to CRM : 0
+[2017.07.24_11.20.09]	Second run total Installations from DB : 0
+[2017.07.24_11.20.09]	Second run total Installations to CRM : 0
+[2017.07.24_11.20.10]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959344 
+[2017.07.24_11.20.11]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959351 
+[2017.07.24_11.20.11]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959356 
+[2017.07.24_11.20.12]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959361 
+[2017.07.24_11.20.13]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959368 
+[2017.07.24_11.20.14]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959373 
+[2017.07.24_11.20.14]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959374 
+[2017.07.24_11.20.15]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959383 
+[2017.07.24_11.20.16]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959387 
+[2017.07.24_11.20.17]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959390 
+[2017.07.24_11.20.18]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959401 
+[2017.07.24_11.20.18]	Error in CreateInstallation. Could not find reference to child product,52452,with parent,YDP014019N,ID,1959409 
+[2017.07.24_11.20.19]	Error in CreateInstallation. Could not find reference to child product,80158,with parent,YDP014019N,ID,1959412 
+[2017.07.24_11.20.20]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959619.
+[2017.07.24_11.20.20]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959620.
+[2017.07.24_11.20.21]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959621.
+[2017.07.24_11.20.21]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959622.
+[2017.07.24_11.20.22]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959623.
+[2017.07.24_11.20.23]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959624.
+[2017.07.24_11.20.23]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959625.
+[2017.07.24_11.20.24]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959626.
+[2017.07.24_11.20.24]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959627.
+[2017.07.24_11.20.25]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959628.
+[2017.07.24_11.20.26]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959629.
+[2017.07.24_11.20.27]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959630.
+[2017.07.24_11.20.27]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959631.
+[2017.07.24_11.20.28]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959632.
+[2017.07.24_11.20.29]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959633.
+[2017.07.24_11.20.29]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959634.
+[2017.07.24_11.20.30]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959635.
+[2017.07.24_11.20.31]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959845 
+[2017.07.24_11.20.31]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959856 
+[2017.07.24_11.20.32]	Error:Can't create installation.Car with LicenseNum,JTJBAMCA402027687,was not found in CRM.ID,1959939.
+[2017.07.24_11.20.32]	Error:Can't create installation.Car with LicenseNum,JTJBAMCA402027687,was not found in CRM.ID,1959940.
+[2017.07.24_11.20.33]	Error:Can't create installation.Car with LicenseNum,JTJBAMCA402027687,was not found in CRM.ID,1959941.
+[2017.07.24_11.20.34]	Error:Can't create installation.Car with LicenseNum,JTHBS1BL30A002284,was not found in CRM.ID,1959948.
+[2017.07.24_11.20.34]	Error:Can't create installation.Car with LicenseNum,JTHBS1BL30A002284,was not found in CRM.ID,1959949.
+[2017.07.24_11.20.35]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959960 
+[2017.07.24_11.20.36]	Error:Can't create installation.Car with LicenseNum,10672101,was not found in CRM.ID,1960381.
+[2017.07.24_11.20.37]	Error:Can't create installation.Car with LicenseNum,10672101,was not found in CRM.ID,1960382.
+[2017.07.24_11.20.38]	Error:Can't create installation.Car with LicenseNum,10672101,was not found in CRM.ID,1960383.
+[2017.07.24_11.20.38]	Error:Can't create installation.Car with LicenseNum,SB1ZS3JE20E341095,was not found in CRM.ID,1960425.
+[2017.07.24_11.20.39]	Error:Can't create installation.Car with LicenseNum,SB1ZS3JE20E341095,was not found in CRM.ID,1960426.
+[2017.07.24_11.20.39]	Error:Can't create installation.Car with LicenseNum,SB1ZS3JE20E341095,was not found in CRM.ID,1960427.
+[2017.07.24_11.20.40]	Error in CreateInstallation. Could not find reference to child product,52452,with parent,YDP014019N,ID,1960607 
+[2017.07.24_11.20.41]	Error in CreateInstallation. Could not find reference to child product,80158,with parent,YDP014019N,ID,1960612 
+[2017.07.24_11.20.42]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961178 
+[2017.07.24_11.20.42]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961214 
+[2017.07.24_11.20.43]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961218 
+[2017.07.24_11.20.44]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961304 
+[2017.07.24_11.20.44]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961338 
+[2017.07.24_11.20.45]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961340 
+[2017.07.24_11.20.46]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961511 
+[2017.07.24_11.20.46]	Error:Can't create installation.Car with LicenseNum,23338301,was not found in CRM.ID,1961513.
+[2017.07.24_11.20.47]	Error:Can't create installation.Car with LicenseNum,23338301,was not found in CRM.ID,1961514.
+[2017.07.24_11.20.48]	Error:Can't create installation.Car with LicenseNum,23338301,was not found in CRM.ID,1961515.
+[2017.07.24_11.20.48]	Error:Can't create installation.Car with LicenseNum,23338501,was not found in CRM.ID,1961516.
+[2017.07.24_11.20.49]	Error:Can't create installation.Car with LicenseNum,23338501,was not found in CRM.ID,1961517.
+[2017.07.24_11.20.49]	Error:Can't create installation.Car with LicenseNum,23338501,was not found in CRM.ID,1961518.
+[2017.07.24_11.20.50]	Error:Can't create installation.Car with LicenseNum,23338401,was not found in CRM.ID,1961519.
+[2017.07.24_11.20.51]	Error:Can't create installation.Car with LicenseNum,23338401,was not found in CRM.ID,1961520.
+[2017.07.24_11.20.51]	Error:Can't create installation.Car with LicenseNum,23338401,was not found in CRM.ID,1961521.
+[2017.07.24_11.20.52]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961528 
+[2017.07.24_11.20.53]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961542 
+[2017.07.24_11.20.53]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961547 
+[2017.07.24_11.20.54]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961576 
+[2017.07.24_11.20.55]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961650 
+[2017.07.24_11.20.56]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961720 
+[2017.07.24_11.20.56]	Error in CreateInstallation. Could not find reference to child product,GDF,with parent,,ID,1961796 
+[2017.07.24_11.20.57]	Third run total Installations from DB : 69
+[2017.07.24_11.20.57]	Third run total Installations to CRM : 0
+[2017.07.24_11.20.57]	total Returns from DB : 0
+[2017.07.24_11.20.57]	total Returns  to CRM : 0
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 1 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 2 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 3 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 4 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 4 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 5 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 6 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 7 : 24/07/2017 11:20:57
+[2017.07.24_11.20.57]	CustomersCarsInstallations send mail test 8 : 24/07/2017 11:20:57
+[2017.07.24_11.23.50]	first run total cars from DB: 0
+[2017.07.24_11.23.50]	first run total cars to CRM : 0
+[2017.07.24_11.23.50]	first run total Installations from DB : 0
+[2017.07.24_11.23.50]	first run total Installations to CRM : 0
+[2017.07.24_11.23.56]	Error in CreateCar. Could not find reference to car model,,in car,6759632,ID,596993
+[2017.07.24_11.23.57]	Error in CreateCar. Could not find reference to car model,,in car,6759732,ID,596994
+[2017.07.24_11.23.58]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,JTJBAMCA402027687,ID,597090
+[2017.07.24_11.23.58]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,JTHBS1BL30A002284,ID,597093
+[2017.07.24_11.23.59]	Error in CreateCar. Could not find reference to importer name,11082,in car,10672101,ID,597211
+[2017.07.24_11.24.00]	Error in CreateCar. LicenseNum is not numeric. LicenseNum,SB1ZS3JE20E341095,ID,597222
+[2017.07.24_11.24.01]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338301,ID,597578
+[2017.07.24_11.24.02]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338501,ID,597579
+[2017.07.24_11.24.03]	Error in CreateCar. Could not find reference to car model,5F82WZ,in car,23338401,ID,597580
+[2017.07.24_11.24.04]	Second run total cars from DB: 9
+[2017.07.24_11.24.04]	Second run total cars to CRM : 0
+[2017.07.24_11.24.04]	Second run total Installations from DB : 0
+[2017.07.24_11.24.04]	Second run total Installations to CRM : 0
+[2017.07.24_11.24.05]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959344 
+[2017.07.24_11.24.05]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959351 
+[2017.07.24_11.24.06]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959356 
+[2017.07.24_11.24.07]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959361 
+[2017.07.24_11.24.07]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959368 
+[2017.07.24_11.24.09]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959373 
+[2017.07.24_11.24.09]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959374 
+[2017.07.24_11.24.10]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959383 
+[2017.07.24_11.24.11]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959387 
+[2017.07.24_11.24.11]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959390 
+[2017.07.24_11.24.12]	Error in CreateInstallation. Could not find reference to child product,S-90031,with parent,YDM010-073N,ID,1959401 
+[2017.07.24_11.24.13]	Error in CreateInstallation. Could not find reference to child product,52452,with parent,YDP014019N,ID,1959409 
+[2017.07.24_11.24.14]	Error in CreateInstallation. Could not find reference to child product,80158,with parent,YDP014019N,ID,1959412 
+[2017.07.24_11.24.15]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959619.
+[2017.07.24_11.24.15]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959620.
+[2017.07.24_11.24.16]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959621.
+[2017.07.24_11.24.17]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959622.
+[2017.07.24_11.24.17]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959623.
+[2017.07.24_11.24.18]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959624.
+[2017.07.24_11.24.19]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959625.
+[2017.07.24_11.24.20]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959626.
+[2017.07.24_11.24.21]	Error:Can't create installation.Car with LicenseNum,6759632,was not found in CRM.ID,1959627.
+[2017.07.24_11.24.21]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959628.
+[2017.07.24_11.24.22]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959629.
+[2017.07.24_11.24.23]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959630.
+[2017.07.24_11.24.24]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959631.
+[2017.07.24_11.24.24]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959632.
+[2017.07.24_11.24.25]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959633.
+[2017.07.24_11.24.26]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959634.
+[2017.07.24_11.24.27]	Error:Can't create installation.Car with LicenseNum,6759732,was not found in CRM.ID,1959635.
+[2017.07.24_11.41.38]	Error in CreateCar. Could not find reference to car model,FT,in car,26252101,ID,596859
+[2017.07.24_11.41.38]	first run total cars from DB: 1
+[2017.07.24_11.41.38]	first run total cars to CRM : 0
+[2017.07.24_11.41.38]	first run total Installations from DB : 2
+[2017.07.24_11.41.38]	first run total Installations to CRM : 0

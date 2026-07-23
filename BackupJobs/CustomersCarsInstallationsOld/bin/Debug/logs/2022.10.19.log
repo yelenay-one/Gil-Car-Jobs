@@ -1,0 +1,7 @@
+[2022.10.19_13.29.18]	Error: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server). Error in DAL.getDistincedDocNums.
+[2022.10.19_13.29.18]	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.DAL.getDistincedDocNums() in C:\YelenaPC\Projects\Gil-Car-CRM-New\Jobs\CustomersCarsInstallations\DAL.cs:line 64
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.StartInterface(DateTime start) in C:\YelenaPC\Projects\Gil-Car-CRM-New\Jobs\CustomersCarsInstallations\BL.cs:line 59
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args) in C:\YelenaPC\Projects\Gil-Car-CRM-New\Jobs\CustomersCarsInstallations\Program.cs:line 25
+[2022.10.19_13.29.18]	CustomersCarsInstallations Start: 10/19/2022 1:28:30 PM
+[2022.10.19_13.29.18]	CustomersCarsInstallations End: 10/19/2022 1:29:18 PM

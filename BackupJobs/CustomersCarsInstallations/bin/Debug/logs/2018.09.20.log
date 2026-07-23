@@ -1,0 +1,281 @@
+[2018.09.20_09.54.11]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553337 
+[2018.09.20_09.54.12]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553339 
+[2018.09.20_09.55.18]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553394 
+[2018.09.20_09.55.20]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553395 
+[2018.09.20_09.56.05]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553422 
+[2018.09.20_09.56.07]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553424 
+[2018.09.20_09.56.27]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553438 
+[2018.09.20_09.56.30]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553440 
+[2018.09.20_10.23.04]	Error: Customer Name is null. ID,789663
+[2018.09.20_10.23.15]	Error in CreateCar. Could not find reference to importer name,19010,in car,2408230,ID,789668
+[2018.09.20_10.33.36]	Error in CreateInstallation. Could not find reference to child product,90400,with parent,885HE,ID,555010 
+[2018.09.20_10.38.12]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555205 
+[2018.09.20_10.38.15]	Error in CreateInstallation. Could not find reference to child product,52898,with parent,CDJ0012,ID,555206 
+[2018.09.20_10.38.19]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555209 
+[2018.09.20_10.38.24]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555214 
+[2018.09.20_10.38.47]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555233 
+[2018.09.20_10.39.05]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555248 
+[2018.09.20_10.39.06]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555250 
+[2018.09.20_10.39.07]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555251 
+[2018.09.20_10.39.13]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555253 
+[2018.09.20_10.39.13]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555254 
+[2018.09.20_10.39.15]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555257 
+[2018.09.20_10.39.50]	Error in CreateInstallation. Could not find reference to child product,80085,with parent,CDJ0079(B),ID,555283 
+[2018.09.20_10.39.51]	Error in CreateInstallation. Could not find reference to child product,80092,with parent,CDJ0079(B),ID,555284 
+[2018.09.20_10.39.51]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,CDJ0079(B),ID,555285 
+[2018.09.20_10.39.55]	Error in CreateInstallation. Could not find reference to child product,41944,with parent,CDJ0079(B),ID,555287 
+[2018.09.20_10.39.55]	Error in CreateInstallation. Could not find reference to child product,42204,with parent,CDJ0079(B),ID,555288 
+[2018.09.20_10.39.56]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0079(B),ID,555289 
+[2018.09.20_10.39.56]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,CDJ0079(B),ID,555290 
+[2018.09.20_10.39.57]	Error in CreateInstallation. Could not find reference to child product,80305,with parent,CDJ0079(B),ID,555291 
+[2018.09.20_10.40.05]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555298 
+[2018.09.20_10.40.53]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555336 
+[2018.09.20_10.54.30]	first run total cars from DB: 759
+[2018.09.20_10.54.30]	first run total cars to CRM : 757
+[2018.09.20_10.54.30]	first run total Installations from DB : 2859
+[2018.09.20_10.54.30]	first run total Installations to CRM : 2827
+[2018.09.20_10.54.33]	Error in CreateCar. Could not find reference to importer name,19010,in car,2408230,ID,789668
+[2018.09.20_10.54.33]	Second run total cars from DB: 2
+[2018.09.20_10.54.33]	Second run total cars to CRM : 1
+[2018.09.20_10.54.33]	Second run total Installations from DB : 1
+[2018.09.20_10.54.33]	Second run total Installations to CRM : 1
+[2018.09.20_10.54.36]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553337 
+[2018.09.20_10.54.36]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553339 
+[2018.09.20_10.54.37]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553394 
+[2018.09.20_10.54.38]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553395 
+[2018.09.20_10.54.38]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553422 
+[2018.09.20_10.54.39]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553424 
+[2018.09.20_10.54.39]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553438 
+[2018.09.20_10.54.40]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553440 
+[2018.09.20_10.54.40]	Error:Can't create installation.Car with LicenseNum,2408230,was not found in CRM.ID,554561.
+[2018.09.20_10.54.41]	Error in CreateInstallation. Could not find reference to child product,90400,with parent,885HE,ID,555010 
+[2018.09.20_10.54.42]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555205 
+[2018.09.20_10.54.42]	Error in CreateInstallation. Could not find reference to child product,52898,with parent,CDJ0012,ID,555206 
+[2018.09.20_10.54.43]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555209 
+[2018.09.20_10.54.45]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555214 
+[2018.09.20_10.54.46]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555233 
+[2018.09.20_10.54.47]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555248 
+[2018.09.20_10.54.48]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555250 
+[2018.09.20_10.54.48]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555251 
+[2018.09.20_10.54.49]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555253 
+[2018.09.20_10.54.49]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555254 
+[2018.09.20_10.54.51]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555257 
+[2018.09.20_10.54.53]	Error in CreateInstallation. Could not find reference to child product,80085,with parent,CDJ0079(B),ID,555283 
+[2018.09.20_10.54.55]	Error in CreateInstallation. Could not find reference to child product,80092,with parent,CDJ0079(B),ID,555284 
+[2018.09.20_10.54.56]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,CDJ0079(B),ID,555285 
+[2018.09.20_10.54.57]	Error in CreateInstallation. Could not find reference to child product,41944,with parent,CDJ0079(B),ID,555287 
+[2018.09.20_10.54.59]	Error in CreateInstallation. Could not find reference to child product,42204,with parent,CDJ0079(B),ID,555288 
+[2018.09.20_10.55.00]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0079(B),ID,555289 
+[2018.09.20_10.55.01]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,CDJ0079(B),ID,555290 
+[2018.09.20_10.55.02]	Error in CreateInstallation. Could not find reference to child product,80305,with parent,CDJ0079(B),ID,555291 
+[2018.09.20_10.55.03]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555298 
+[2018.09.20_10.55.04]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555336 
+[2018.09.20_10.55.04]	Third run total Installations from DB : 32
+[2018.09.20_10.55.04]	Third run total Installations to CRM : 1
+[2018.09.20_10.55.16]	Error in CreateReturn. Could not find reference to car,52986101,ID,31579
+[2018.09.20_10.55.17]	Error in CreateReturn. Could not find reference to car,52986101,ID,31580
+[2018.09.20_10.55.17]	Error in CreateReturn. Could not find reference to car,52986101,ID,31581
+[2018.09.20_10.55.20]	Error in CreateReturn. Could not find reference to car,52996601,ID,31585
+[2018.09.20_10.55.20]	Error in CreateReturn. Could not find reference to car,52996601,ID,31586
+[2018.09.20_10.55.20]	Error in CreateReturn. Could not find reference to car,52996601,ID,31587
+[2018.09.20_10.55.21]	Error in CreateReturn. Could not find reference to car,53008101,ID,31588
+[2018.09.20_10.55.21]	Error in CreateReturn. Could not find reference to car,53008101,ID,31589
+[2018.09.20_10.55.22]	Error in CreateReturn. Could not find reference to car,53008101,ID,31590
+[2018.09.20_10.55.38]	Error in CreateReturn. Could not find reference to car,52986001,ID,31507
+[2018.09.20_10.55.38]	Error in CreateReturn. Could not find reference to car,52986001,ID,31508
+[2018.09.20_10.55.39]	Error in CreateReturn. Could not find reference to car,52986001,ID,31509
+[2018.09.20_10.55.39]	Error in CreateReturn. Could not find reference to car,51224301,ID,31510
+[2018.09.20_10.55.39]	Error in CreateReturn. Could not find reference to car,51224301,ID,31511
+[2018.09.20_10.55.40]	Error in CreateReturn. Could not find reference to car,52991301,ID,31512
+[2018.09.20_10.55.40]	Error in CreateReturn. Could not find reference to car,52991301,ID,31513
+[2018.09.20_10.55.40]	Error in CreateReturn. Could not find reference to car,52991301,ID,31514
+[2018.09.20_10.55.41]	Error in CreateReturn. Could not find reference to car,52991501,ID,31515
+[2018.09.20_10.55.42]	Error in CreateReturn. Could not find reference to car,52991501,ID,31516
+[2018.09.20_10.55.42]	Error in CreateReturn. Could not find reference to car,52991501,ID,31517
+[2018.09.20_10.55.42]	Error in CreateReturn. Could not find reference to car,5298760,ID,31518
+[2018.09.20_10.55.43]	Error in CreateReturn. Could not find reference to car,5298760,ID,31519
+[2018.09.20_10.55.43]	Error in CreateReturn. Could not find reference to car,5298760,ID,31520
+[2018.09.20_10.55.43]	Error in CreateReturn. Could not find reference to car,52995501,ID,31521
+[2018.09.20_10.55.44]	Error in CreateReturn. Could not find reference to car,52995501,ID,31522
+[2018.09.20_10.55.44]	Error in CreateReturn. Could not find reference to car,52995501,ID,31523
+[2018.09.20_10.55.45]	Error in CreateReturn. Could not find reference to car,52998101,ID,31524
+[2018.09.20_10.55.45]	Error in CreateReturn. Could not find reference to car,52998101,ID,31525
+[2018.09.20_10.55.45]	Error in CreateReturn. Could not find reference to car,52998101,ID,31526
+[2018.09.20_10.55.46]	Error in CreateReturn. Could not find reference to car,52992201,ID,31527
+[2018.09.20_10.55.46]	Error in CreateReturn. Could not find reference to car,52992201,ID,31528
+[2018.09.20_10.55.50]	Error in CreateReturn. Could not find reference to car,57493401,ID,31859
+[2018.09.20_10.55.51]	Error in CreateReturn. Could not find reference to car,57493401,ID,31860
+[2018.09.20_10.56.00]	Error in CreateReturn. Could not find reference to car,51215201,ID,31661
+[2018.09.20_10.56.01]	Error in CreateReturn. Could not find reference to car,51215201,ID,31662
+[2018.09.20_10.56.06]	Error in CreateReturn. Could not find reference to car,49631701,ID,31668
+[2018.09.20_10.56.39]	Error in CreateReturn. Could not find reference to car,54191001,ID,31703
+[2018.09.20_10.56.48]	Error in CreateReturn. Could not find reference to car,49594301,ID,31390
+[2018.09.20_10.56.48]	Error in CreateReturn. Could not find reference to car,49608701,ID,31391
+[2018.09.20_10.57.13]	Error in CreateReturn. Could not find reference to car,52726501,ID,31425
+[2018.09.20_10.57.14]	Error in CreateReturn. Could not find reference to car,52726501,ID,31426
+[2018.09.20_10.57.14]	Error in CreateReturn. Could not find reference to car,52726501,ID,31427
+[2018.09.20_10.57.14]	Error in CreateReturn. Could not find reference to car,52726401,ID,31428
+[2018.09.20_10.57.15]	Error in CreateReturn. Could not find reference to car,52726401,ID,31429
+[2018.09.20_10.57.15]	Error in CreateReturn. Could not find reference to car,52726401,ID,31430
+[2018.09.20_10.57.18]	Error in CreateReturn. Could not find reference to car,8956626,ID,31729
+[2018.09.20_10.57.46]	Error in CreateReturn. Could not find reference to car,51225601,ID,31759
+[2018.09.20_10.57.46]	Error in CreateReturn. Could not find reference to car,51225601,ID,31760
+[2018.09.20_10.57.47]	Error in CreateReturn. Could not find reference to car,51225401,ID,31761
+[2018.09.20_10.57.47]	Error in CreateReturn. Could not find reference to car,51225401,ID,31762
+[2018.09.20_10.58.54]	Error in CreateReturn. Could not find reference to car,52948601,ID,31452
+[2018.09.20_10.58.55]	Error in CreateReturn. Could not find reference to car,52948601,ID,31453
+[2018.09.20_10.58.55]	Error in CreateReturn. Could not find reference to car,52948601,ID,31454
+[2018.09.20_10.58.55]	Error in CreateReturn. Could not find reference to car,52924801,ID,31455
+[2018.09.20_10.58.56]	Error in CreateReturn. Could not find reference to car,52924801,ID,31456
+[2018.09.20_10.58.56]	Error in CreateReturn. Could not find reference to car,52924801,ID,31457
+[2018.09.20_10.59.01]	Error in CreateReturn. Could not find reference to car,54136901,ID,31871
+[2018.09.20_10.59.06]	Error in CreateReturn. Could not find reference to car,6115774,ID,31877
+[2018.09.20_10.59.16]	Error in CreateReturn. Could not find reference to car,54136801,ID,31886
+[2018.09.20_10.59.16]	Error in CreateReturn. Could not find reference to car,54137001,ID,31887
+[2018.09.20_10.59.24]	Error in CreateReturn. Could not find reference to car,49751801,ID,31899
+[2018.09.20_10.59.24]	Error in CreateReturn. Could not find reference to car,49751801,ID,31900
+[2018.09.20_10.59.25]	Error in CreateReturn. Could not find reference to car,49751801,ID,31901
+[2018.09.20_10.59.25]	Error in CreateReturn. Could not find reference to car,49751801,ID,31902
+[2018.09.20_10.59.25]	Error in CreateReturn. Could not find reference to car,49751801,ID,31903
+[2018.09.20_10.59.26]	Error in CreateReturn. Could not find reference to car,49751801,ID,31904
+[2018.09.20_10.59.33]	Error in CreateReturn. Could not find reference to car,7408226,ID,31765
+[2018.09.20_10.59.36]	Error in CreateReturn. Could not find reference to car,49623501,ID,31769
+[2018.09.20_10.59.42]	Error in CreateReturn. Could not find reference to car,53011101,ID,31774
+[2018.09.20_10.59.43]	Error in CreateReturn. Could not find reference to car,53011101,ID,31775
+[2018.09.20_10.59.43]	Error in CreateReturn. Could not find reference to car,53032101,ID,31776
+[2018.09.20_10.59.44]	Error in CreateReturn. Could not find reference to car,53032101,ID,31777
+[2018.09.20_10.59.50]	Error in CreateReturn. Could not find reference to car,54123501,ID,31786
+[2018.09.20_10.59.51]	Error in CreateReturn. Could not find reference to car,54123601,ID,31787
+[2018.09.20_10.59.51]	Error in CreateReturn. Could not find reference to car,49623501,ID,31788
+[2018.09.20_10.59.51]	Error in CreateReturn. Could not find reference to car,49623501,ID,31789
+[2018.09.20_11.00.35]	Error in CreateReturn. Could not find reference to car,49623501,ID,31833
+[2018.09.20_11.00.36]	Error in CreateReturn. Could not find reference to car,49623501,ID,31834
+[2018.09.20_11.00.36]	Error in CreateReturn. Could not find reference to car,49623501,ID,31835
+[2018.09.20_11.00.37]	Error in CreateReturn. Could not find reference to car,49623501,ID,31836
+[2018.09.20_11.00.38]	Error in CreateReturn. Could not find reference to car,49623501,ID,31837
+[2018.09.20_11.00.38]	Error in CreateReturn. Could not find reference to car,49623501,ID,31838
+[2018.09.20_11.00.39]	Error in CreateReturn. Could not find reference to car,49623501,ID,31839
+[2018.09.20_11.00.39]	Error in CreateReturn. Could not find reference to car,49623501,ID,31840
+[2018.09.20_11.00.39]	Error in CreateReturn. Could not find reference to car,49623501,ID,31841
+[2018.09.20_11.00.41]	Error in CreateReturn. Could not find reference to car,49623501,ID,31842
+[2018.09.20_11.00.41]	Error in CreateReturn. Could not find reference to car,49623501,ID,31843
+[2018.09.20_11.00.41]	Error in CreateReturn. Could not find reference to car,49623501,ID,31844
+[2018.09.20_11.00.42]	Error in CreateReturn. Could not find reference to car,49623501,ID,31845
+[2018.09.20_11.00.48]	Error in CreateReturn. Could not find reference to car,49623501,ID,31538
+[2018.09.20_11.00.50]	Error in CreateReturn. Could not find reference to car,49623501,ID,31541
+[2018.09.20_11.00.57]	Error in CreateReturn. Could not find reference to car,7402426,ID,31550
+[2018.09.20_11.00.59]	Error in CreateReturn. Could not find reference to car,49623501,ID,31554
+[2018.09.20_11.01.04]	Error in CreateReturn. Could not find reference to car,52003701,ID,31560
+[2018.09.20_11.01.05]	Error in CreateReturn. Could not find reference to car,52003701,ID,31561
+[2018.09.20_11.01.05]	Error in CreateReturn. Could not find reference to car,52003701,ID,31562
+[2018.09.20_11.01.05]	Error in CreateReturn. Could not find reference to car,52003701,ID,31563
+[2018.09.20_11.01.07]	Error in CreateReturn. Could not find reference to car,7408026,ID,31622
+[2018.09.20_11.01.46]	Error in CreateReturn. Could not find reference to car,51236901,ID,31657
+[2018.09.20_11.01.46]	Error in CreateReturn. Could not find reference to car,51236901,ID,31658
+[2018.09.20_11.01.46]	Error in CreateReturn. Could not find reference to car,55035801,ID,31460
+[2018.09.20_11.01.47]	Error in CreateReturn. Could not find reference to car,52961301,ID,31461
+[2018.09.20_11.01.47]	Error in CreateReturn. Could not find reference to car,52961301,ID,31462
+[2018.09.20_11.02.09]	Error in CreateReturn. Could not find reference to car,52937701,ID,31482
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52937701,ID,31483
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52937701,ID,31484
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52949601,ID,31485
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52949601,ID,31486
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52949601,ID,31487
+[2018.09.20_11.02.10]	Error in CreateReturn. Could not find reference to car,52948201,ID,31488
+[2018.09.20_11.02.11]	Error in CreateReturn. Could not find reference to car,52948201,ID,31489
+[2018.09.20_11.02.11]	Error in CreateReturn. Could not find reference to car,52948201,ID,31490
+[2018.09.20_11.02.11]	Error in CreateReturn. Could not find reference to car,52730301,ID,31491
+[2018.09.20_11.02.11]	Error in CreateReturn. Could not find reference to car,52730301,ID,31492
+[2018.09.20_11.02.11]	Error in CreateReturn. Could not find reference to car,52730301,ID,31493
+[2018.09.20_11.03.07]	Error in CreateReturn. Could not find reference to car,53096001,ID,31948
+[2018.09.20_11.03.08]	Error in CreateReturn. Could not find reference to car,53096001,ID,31949
+[2018.09.20_11.03.14]	total Returns from DB : 582
+[2018.09.20_11.03.14]	total Returns  to CRM : 465
+[2018.09.20_11.03.14]	CustomersCarsInstallations send mail test 5 : 20/09/2018 11:03:14
+[2018.09.20_11.03.14]	CustomersCarsInstallations send mail test 6 : 20/09/2018 11:03:14
+[2018.09.20_11.03.14]	CustomersCarsInstallations send mail test 7 : 20/09/2018 11:03:14
+[2018.09.20_11.03.15]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Microsoft.Xrm.Sdk.IOrganizationService.Create(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.CreateCore(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.Create(Entity entity)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.SendEmail() in d:\Crm.Interfaces\CustomersCarsInstallations\BL.cs:line 1207
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args) in d:\Crm.Interfaces\CustomersCarsInstallations\Program.cs:line 28
+[2018.09.20_11.03.15]	CustomersCarsInstallations Start: 20/09/2018 09:46:45
+[2018.09.20_11.03.15]	CustomersCarsInstallations End: 20/09/2018 11:03:15
+[2018.09.20_11.19.04]	Error: Customer Name is null. ID,789663
+[2018.09.20_11.19.04]	first run total cars from DB: 1
+[2018.09.20_11.19.04]	first run total cars to CRM : 0
+[2018.09.20_11.19.04]	first run total Installations from DB : 1
+[2018.09.20_11.19.04]	first run total Installations to CRM : 0
+[2018.09.20_11.19.10]	Error in CreateCar. Could not find reference to importer name,19010,in car,2408230,ID,789668
+[2018.09.20_11.19.10]	Second run total cars from DB: 1
+[2018.09.20_11.19.10]	Second run total cars to CRM : 0
+[2018.09.20_11.19.10]	Second run total Installations from DB : 0
+[2018.09.20_11.19.10]	Second run total Installations to CRM : 0
+[2018.09.20_11.19.11]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553337 
+[2018.09.20_11.19.11]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553339 
+[2018.09.20_11.19.12]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553394 
+[2018.09.20_11.19.12]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553395 
+[2018.09.20_11.19.13]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553422 
+[2018.09.20_11.19.13]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553424 
+[2018.09.20_11.19.14]	Error in CreateInstallation. Could not find reference to child product,80055,with parent,YM0026120BN,ID,553438 
+[2018.09.20_11.19.14]	Error in CreateInstallation. Could not find reference to child product,F-G8023J19,with parent,YM0026120BN,ID,553440 
+[2018.09.20_11.19.15]	Error:Can't create installation.Car with LicenseNum,2408230,was not found in CRM.ID,554561.
+[2018.09.20_11.19.15]	Error in CreateInstallation. Could not find reference to child product,90400,with parent,885HE,ID,555010 
+[2018.09.20_11.19.15]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555205 
+[2018.09.20_11.19.16]	Error in CreateInstallation. Could not find reference to child product,52898,with parent,CDJ0012,ID,555206 
+[2018.09.20_11.19.16]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555209 
+[2018.09.20_11.19.17]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL3(B),ID,555214 
+[2018.09.20_11.19.17]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555233 
+[2018.09.20_11.19.18]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555248 
+[2018.09.20_11.19.18]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555250 
+[2018.09.20_11.19.19]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555251 
+[2018.09.20_11.19.19]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,FCAM04(T),ID,555253 
+[2018.09.20_11.19.20]	Error in CreateInstallation. Could not find reference to child product,41847,with parent,FCAM04(T),ID,555254 
+[2018.09.20_11.19.20]	Error in CreateInstallation. Could not find reference to child product,80033,with parent,FCAM04(T),ID,555257 
+[2018.09.20_11.19.21]	Error in CreateInstallation. Could not find reference to child product,80085,with parent,CDJ0079(B),ID,555283 
+[2018.09.20_11.19.21]	Error in CreateInstallation. Could not find reference to child product,80092,with parent,CDJ0079(B),ID,555284 
+[2018.09.20_11.19.22]	Error in CreateInstallation. Could not find reference to child product,90036,with parent,CDJ0079(B),ID,555285 
+[2018.09.20_11.19.22]	Error in CreateInstallation. Could not find reference to child product,41944,with parent,CDJ0079(B),ID,555287 
+[2018.09.20_11.19.23]	Error in CreateInstallation. Could not find reference to child product,42204,with parent,CDJ0079(B),ID,555288 
+[2018.09.20_11.19.23]	Error in CreateInstallation. Could not find reference to child product,51023,with parent,CDJ0079(B),ID,555289 
+[2018.09.20_11.19.24]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,CDJ0079(B),ID,555290 
+[2018.09.20_11.19.24]	Error in CreateInstallation. Could not find reference to child product,80305,with parent,CDJ0079(B),ID,555291 
+[2018.09.20_11.19.25]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555298 
+[2018.09.20_11.19.25]	Error in CreateInstallation. Could not find reference to child product,52525,with parent,FGUL1(B),ID,555336 
+[2018.09.20_11.19.25]	Third run total Installations from DB : 31
+[2018.09.20_11.19.25]	Third run total Installations to CRM : 0
+[2018.09.20_11.19.26]	total Returns from DB : 0
+[2018.09.20_11.19.26]	total Returns  to CRM : 0
+[2018.09.20_11.19.26]	CustomersCarsInstallations send mail test 5 : 20/09/2018 11:19:26
+[2018.09.20_11.19.26]	CustomersCarsInstallations send mail test 6 : 20/09/2018 11:19:26
+[2018.09.20_11.19.26]	CustomersCarsInstallations send mail test 7 : 20/09/2018 11:19:26
+[2018.09.20_11.19.26]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Microsoft.Xrm.Sdk.IOrganizationService.Create(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.CreateCore(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.Create(Entity entity)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.SendEmail() in d:\Crm.Interfaces\CustomersCarsInstallations\BL.cs:line 1207
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args) in d:\Crm.Interfaces\CustomersCarsInstallations\Program.cs:line 28
+[2018.09.20_11.19.26]	CustomersCarsInstallations Start: 20/09/2018 11:19:01
+[2018.09.20_11.19.26]	CustomersCarsInstallations End: 20/09/2018 11:19:26

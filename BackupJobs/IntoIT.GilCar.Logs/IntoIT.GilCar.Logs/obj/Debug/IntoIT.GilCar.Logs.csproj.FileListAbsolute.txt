@@ -1,0 +1,16 @@
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\IntoIT.GilCar.Logs.exe.config
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\IntoIT.GilCar.Logs.exe
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\IntoIT.GilCar.Logs.pdb
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\obj\Debug\IntoIT.GilCar.Logs.exe
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\obj\Debug\IntoIT.GilCar.Logs.pdb
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\obj\Debug\IntoIT.GilCar.Logs.csprojAssemblyReference.cache
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\obj\Debug\IntoIT.GilCar.Logs.csproj.CoreCompileInputs.cache
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Crm.Interfaces\IntoIT.GilCar.Logs\IntoIT.GilCar.Logs\obj\Debug\IntoIT.GilCar.Logs.csproj.CopyComplete

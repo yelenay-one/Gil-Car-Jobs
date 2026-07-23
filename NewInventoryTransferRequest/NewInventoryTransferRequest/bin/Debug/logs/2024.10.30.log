@@ -1,0 +1,192 @@
+[2024.10.30_17.07.38]	NewInventoryTransferRequest Start: 30/10/2024 17:07:38
+[2024.10.30_17.13.07]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (133).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.26]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (3355).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.44]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2151).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.48]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2037).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.51]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2181).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.55]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2560).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.13.59]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (3187).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.02]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1520).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.06]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2155).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.10]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2187).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.14]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2113).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.18]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2121).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.23]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1982).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.27]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1984).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.31]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1989).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.34]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1996).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.38]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2638).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.42]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1880).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.45]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1882).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.49]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1851).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.53]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (3063).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.14.56]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (459).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.00]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (546).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.04]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (587).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.09]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2086).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.13]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2304).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.16]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1066).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.19]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1655).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.22]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1424).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.26]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1898).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.29]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2033).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.33]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2042).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.36]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2045).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.39]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1552).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.15.43]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (1554).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.16.09]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2074).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.16.13]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2092).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.16.16]	Violation of PRIMARY KEY constraint 'PK__New_Inve__C69FA3C0F358EAC9'. Cannot insert duplicate key in object 'dbo.New_Inventory_Transfer_Request'. The duplicate key value is (2035).
+The statement has been terminated.
+   at NewInventoryTransferRequest.SQLHelper.ExecuteNonQuery(String sqlText) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\SQLHelper.cs:line 68
+   at NewInventoryTransferRequest.DAL.InsertInventoryTransferRequest(NewInventoryTransferRequest newInventoryTransferRequest) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\DAL.cs:line 61
+   at NewInventoryTransferRequest.BL.StartInterface(DateTime start) in C:\IntoIt\Jobs\NewInventoryTransferRequest\NewInventoryTransferRequest\BL.cs:line 47
+[2024.10.30_17.18.11]	NewInventoryTransferRequest End: 30/10/2024 17:18:11

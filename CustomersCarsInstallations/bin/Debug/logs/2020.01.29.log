@@ -1,0 +1,90 @@
+[2020.01.29_12.27.22]	Third run total Installations from DB : 6
+[2020.01.29_12.27.22]	Third run total Installations to CRM : 6
+[2020.01.29_12.29.08]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_12.29.22]	fourth run total returns from DB : 1
+[2020.01.29_12.29.25]	fourth run total returns to CRM : 0
+[2020.01.29_12.40.18]	Third run total Installations from DB : 6
+[2020.01.29_12.40.18]	Third run total Installations to CRM : 6
+[2020.01.29_12.40.27]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_12.40.27]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_12.40.27]	fourth run total returns from DB : 1
+[2020.01.29_12.40.27]	fourth run total returns to CRM : 0
+[2020.01.29_13.41.30]	Third run total Installations from DB : 7
+[2020.01.29_13.41.30]	Third run total Installations to CRM : 7
+[2020.01.29_13.41.43]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.44]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.45]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.45]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.46]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.46]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.48]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.48]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.49]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.49]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.41.49]	fourth run total returns from DB : 5
+[2020.01.29_13.41.49]	fourth run total returns to CRM : 0
+[2020.01.29_13.49.13]	Third run total Installations from DB : 7
+[2020.01.29_13.49.13]	Third run total Installations to CRM : 7
+[2020.01.29_13.49.20]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.20]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.20]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.22]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.22]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.22]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.23]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.23]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.23]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.25]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.25]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.25]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.27]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.27]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.27]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.49.27]	fourth run total returns from DB : 5
+[2020.01.29_13.49.27]	fourth run total returns to CRM : 0
+[2020.01.29_13.55.31]	Third run total Installations from DB : 7
+[2020.01.29_13.55.31]	Third run total Installations to CRM : 7
+[2020.01.29_13.56.04]	Error: Procedure or function 'CustomersCarInstallations_UpdateInstallation' expects parameter '@id', which was not supplied.. Error in DAL.UpdateInstallationDateSAP.
+[2020.01.29_13.58.18]	Third run total Installations from DB : 0
+[2020.01.29_13.58.19]	Third run total Installations to CRM : 0
+[2020.01.29_13.59.08]	fourth run total returns from DB : 5
+[2020.01.29_13.59.08]	fourth run total returns to CRM : 0
+[2020.01.29_14.00.52]	Third run total Installations from DB : 7
+[2020.01.29_14.00.52]	Third run total Installations to CRM : 7
+[2020.01.29_14.01.16]	fourth run total returns from DB : 5
+[2020.01.29_14.01.16]	fourth run total returns to CRM : 0
+[2020.01.29_15.09.48]	first run total cars from DB: 0
+[2020.01.29_15.09.48]	first run total cars to CRM : 0
+[2020.01.29_15.09.48]	first run total Installations from DB : 0
+[2020.01.29_15.09.48]	first run total Installations to CRM : 0
+[2020.01.29_15.09.48]	Second run total cars from DB: 0
+[2020.01.29_15.09.48]	Second run total cars to CRM : 0
+[2020.01.29_15.09.48]	Second run total Installations from DB : 0
+[2020.01.29_15.09.48]	Second run total Installations to CRM : 0
+[2020.01.29_15.10.20]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1302382 
+[2020.01.29_15.10.29]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1302390 
+[2020.01.29_15.10.36]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1302395 
+[2020.01.29_15.10.40]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1302400 
+[2020.01.29_15.10.50]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1302402 
+[2020.01.29_15.35.53]	Error in CreateInstallationWithReturns. Could not find reference to child product,36043,with parent,YDT030029,ID,1301700 
+[2020.01.29_16.01.01]	Third run total Installations from DB : 2025
+[2020.01.29_16.01.01]	Third run total Installations to CRM : 2019
+[2020.01.29_16.02.09]	fourth run total returns from DB : 24
+[2020.01.29_16.02.09]	fourth run total returns to CRM : 0
+[2020.01.29_16.06.55]	CustomersCarsInstallations send mail test 5 : 29/01/2020 16:06:55
+[2020.01.29_16.06.55]	CustomersCarsInstallations send mail test 6 : 29/01/2020 16:06:55
+[2020.01.29_16.06.55]	CustomersCarsInstallations send mail test 7 : 29/01/2020 16:06:55
+[2020.01.29_16.06.57]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.Create(Entity entity)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.SendEmail() in D:\Crm.Interfaces\CustomersCarsInstallations - gil shalem\BL.cs:line 1757
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args) in D:\Crm.Interfaces\CustomersCarsInstallations - gil shalem\Program.cs:line 28
+[2020.01.29_16.06.57]	CustomersCarsInstallations Start: 29/01/2020 14:57:21
+[2020.01.29_16.06.57]	CustomersCarsInstallations End: 29/01/2020 16:06:57

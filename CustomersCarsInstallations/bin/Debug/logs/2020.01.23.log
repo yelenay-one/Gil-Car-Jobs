@@ -1,0 +1,42 @@
+[2020.01.23_12.07.44]	Error: Customer Name is null. ID,988020
+[2020.01.23_12.10.36]	Error: Customer Name is null. ID,988127
+[2020.01.23_12.12.16]	first run total cars from DB: 2
+[2020.01.23_12.12.20]	first run total cars to CRM : 2
+[2020.01.23_12.12.22]	first run total Installations from DB : 2
+[2020.01.23_12.12.23]	first run total Installations to CRM : 2
+[2020.01.23_12.12.52]	Second run total cars from DB: 0
+[2020.01.23_12.12.53]	Second run total cars to CRM : 0
+[2020.01.23_12.12.53]	Second run total Installations from DB : 0
+[2020.01.23_12.12.54]	Second run total Installations to CRM : 0
+[2020.01.23_14.44.33]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121342 
+[2020.01.23_14.46.49]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121342 
+[2020.01.23_17.43.47]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121345 
+[2020.01.23_17.44.31]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121348 
+[2020.01.23_17.44.50]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121358 
+[2020.01.23_17.45.01]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121365 
+[2020.01.23_17.45.07]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121368 
+[2020.01.23_17.45.26]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121375 
+[2020.01.23_17.45.28]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121376 
+[2020.01.23_17.45.40]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121382 
+[2020.01.23_17.45.44]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121384 
+[2020.01.23_17.45.52]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121388 
+[2020.01.23_17.45.55]	Error: not found same product in qty>0. Error in updateInstallationforReturn. ID,E121389 
+[2020.01.23_17.46.05]	Third run total Installations from DB : 51
+[2020.01.23_17.46.05]	Third run total Installations to CRM : 51
+[2020.01.23_17.46.11]	CustomersCarsInstallations send mail test 5 : 23/01/2020 17:46:11
+[2020.01.23_17.46.11]	CustomersCarsInstallations send mail test 6 : 23/01/2020 17:46:11
+[2020.01.23_17.46.11]	CustomersCarsInstallations send mail test 7 : 23/01/2020 17:46:11
+[2020.01.23_17.46.23]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.Create(Entity entity)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.SendEmail()
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args)
+[2020.01.23_17.46.26]	CustomersCarsInstallations Start: 23/01/2020 17:04:32
+[2020.01.23_17.46.27]	CustomersCarsInstallations End: 23/01/2020 17:46:27

@@ -1,0 +1,17 @@
+[2016.04.17_08.18.40]	Can't create son product,53457,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_08.18.40]	Can't create son product,52000,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_08.18.41]	Can't create son product,954,with parent product,53410, Parent product doesn't exist.
+[2016.04.17_14.29.30]	Can't create son product,53457,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_14.29.30]	Can't create son product,52000,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_14.29.30]	Can't create son product,954,with parent product,53410, Parent product doesn't exist.
+[2016.04.17_14.43.02]	Error: 'Product' entity doesn't contain attribute with Name = 'new_Parent_item_id'.. Error in GetAllProductsFromCRM. 
+[2016.04.17_14.43.02]	Error: 'Product' entity doesn't contain attribute with Name = 'new_Parent_item_id'.. Error in GetAllProductsFromCRM. 
+[2016.04.17_14.43.02]	Can't create son product,53457,with parent product,38-15, Son product doesn't exist.
+[2016.04.17_14.43.02]	Can't create son product,53457,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_14.43.02]	Can't create son product,52000,with parent product,38-15, Son product doesn't exist.
+[2016.04.17_14.43.02]	Can't create son product,52000,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_14.43.02]	Can't create son product,954,with parent product,53410, Son product doesn't exist.
+[2016.04.17_14.43.02]	Can't create son product,954,with parent product,53410, Parent product doesn't exist.
+[2016.04.17_15.08.03]	Can't create son product,53457,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_15.08.03]	Can't create son product,52000,with parent product,38-15, Parent product doesn't exist.
+[2016.04.17_15.08.03]	Can't create son product,954,with parent product,53410, Parent product doesn't exist.

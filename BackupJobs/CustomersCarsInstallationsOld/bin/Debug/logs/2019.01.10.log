@@ -1,0 +1,38 @@
+[2019.01.10_15.43.08]	first run total cars from DB: 0
+[2019.01.10_15.43.08]	first run total cars to CRM : 0
+[2019.01.10_15.43.09]	first run total Installations from DB : 0
+[2019.01.10_15.43.09]	first run total Installations to CRM : 0
+[2019.01.10_15.43.13]	Error in CreateCar. Could not find reference to car model,,in car,63005801,ID,821395
+[2019.01.10_15.43.13]	Second run total cars from DB: 1
+[2019.01.10_15.43.13]	Second run total cars to CRM : 0
+[2019.01.10_15.43.13]	Second run total Installations from DB : 0
+[2019.01.10_15.43.13]	Second run total Installations to CRM : 0
+[2019.01.10_15.43.14]	Error:Can't create installation.Car with LicenseNum,2136375,was not found in CRM.ID,657242.
+[2019.01.10_15.43.15]	Error:Can't create installation.Car with LicenseNum,2408230,was not found in CRM.ID,664741.
+[2019.01.10_15.43.15]	Error:Can't create installation.Car with LicenseNum,3690380,was not found in CRM.ID,664742.
+[2019.01.10_15.43.16]	Error:Can't create installation.Car with LicenseNum,3690380,was not found in CRM.ID,664743.
+[2019.01.10_15.43.16]	Error:Can't create installation.Car with LicenseNum,63005801,was not found in CRM.ID,681243.
+[2019.01.10_15.43.17]	Error:Can't create installation.Car with LicenseNum,63005801,was not found in CRM.ID,681244.
+[2019.01.10_15.43.17]	Error:Can't create installation.Car with LicenseNum,63005801,was not found in CRM.ID,681245.
+[2019.01.10_15.43.18]	Error:Can't create installation.Car with LicenseNum,63005801,was not found in CRM.ID,681246.
+[2019.01.10_15.46.34]	Third run total Installations from DB : 165
+[2019.01.10_15.46.34]	Third run total Installations to CRM : 157
+[2019.01.10_15.46.34]	total Returns from DB : 0
+[2019.01.10_15.46.34]	total Returns  to CRM : 0
+[2019.01.10_15.46.34]	CustomersCarsInstallations send mail test 5 : 10/01/2019 15:46:34
+[2019.01.10_15.46.34]	CustomersCarsInstallations send mail test 6 : 10/01/2019 15:46:34
+[2019.01.10_15.46.34]	CustomersCarsInstallations send mail test 7 : 10/01/2019 15:46:34
+[2019.01.10_15.46.35]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.Create(Entity entity)
+   at IntoIT.GilCar.Interfaces.CustomersCarInstallations.BL.SendEmail() in D:\Crm.Interfaces\CustomersCarsInstallations\BL.cs:line 1230
+   at IntoIT.GilCar.Interfaces.CustomersCarsInstallations.Program.Main(String[] args) in D:\Crm.Interfaces\CustomersCarsInstallations\Program.cs:line 28
+[2019.01.10_15.46.35]	CustomersCarsInstallations Start: 10/01/2019 15:43:06
+[2019.01.10_15.46.35]	CustomersCarsInstallations End: 10/01/2019 15:46:35

@@ -1,0 +1,26 @@
+[2022.04.07_08.31.59]	Error: Object reference not set to an instance of an object.. GetLatestProductnumberIndex.
+[2022.04.07_08.31.59]	Object reference not set to an instance of an object.
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.BL..ctor() in C:\IntoIt\ProductsToCRM\BL.cs:line 43
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.Program.Main(String[] args) in C:\IntoIt\ProductsToCRM\Program.cs:line 16
+[2022.04.07_08.31.59]	ProductsToCRM Start: 07/04/2022 08:31:48
+[2022.04.07_08.31.59]	ProductsToCRM End: 07/04/2022 08:31:59
+[2022.04.07_08.43.49]	Error: Object reference not set to an instance of an object.. GetLatestProductnumberIndex.
+[2022.04.07_08.43.49]	Object reference not set to an instance of an object.
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.BL..ctor() in C:\IntoIt\ProductsToCRM\BL.cs:line 43
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.Program.Main(String[] args) in C:\IntoIt\ProductsToCRM\Program.cs:line 16
+[2022.04.07_08.43.49]	ProductsToCRM Start: 07/04/2022 08:43:03
+[2022.04.07_08.43.49]	ProductsToCRM End: 07/04/2022 08:43:49
+[2022.04.07_09.10.16]	Error: Object reference not set to an instance of an object.. GetLatestProductnumberIndex.
+[2022.04.07_09.10.16]	Object reference not set to an instance of an object.
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.BL..ctor()
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.Program.Main(String[] args)
+[2022.04.07_09.10.16]	ProductsToCRM Start: 07/04/2022 09:08:58
+[2022.04.07_09.10.16]	ProductsToCRM End: 07/04/2022 09:10:16
+[2022.04.07_09.17.03]	Error: Object reference not set to an instance of an object.. GetLatestProductnumberIndex.
+[2022.04.07_09.17.03]	Object reference not set to an instance of an object.
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.BL..ctor() in C:\IntoIt\ProductsToCRM\BL.cs:line 43
+   at IntoIT.GilCar.Interfaces.ProductsToCRM.Program.Main(String[] args) in C:\IntoIt\ProductsToCRM\Program.cs:line 16
+[2022.04.07_09.17.03]	ProductsToCRM Start: 07/04/2022 09:16:22
+[2022.04.07_09.17.03]	ProductsToCRM End: 07/04/2022 09:17:03
+[2022.04.07_12.22.54]	products total from DB : 5
+[2022.04.07_12.22.54]	products total to CRM : 0

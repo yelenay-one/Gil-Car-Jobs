@@ -1,0 +1,16 @@
+[2018.12.04_15.13.13]	Main collection: 0
+[2018.12.04_15.13.13]	Exported: 0
+[2018.12.04_15.13.14]	SystemUser With Id = 45ec54b4-2ca7-e511-80d9-6c3be5beee0c Does Not Exist
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at Microsoft.Xrm.Tooling.Connector.CrmServiceClient.Create(Entity entity)
+   at IntoIT.GilCar.IncidentItemsToSAP.BL.SendEmail() in D:\Crm.Interfaces\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\BL.cs:line 474
+   at IntoIT.GilCar.IncidentItemsToSAP.Program.Main(String[] args) in D:\Crm.Interfaces\IncidentItemsToSAP\IntoIT.GilCar.IncidentItemsToSAP\Program.cs:line 15
+[2018.12.04_15.13.14]	IncidentItemsToSAP Start: 04/12/2018 15:13:07
+[2018.12.04_15.13.14]	IncidentItemsToSAP End: 04/12/2018 15:13:14
